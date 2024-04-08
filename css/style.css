@@ -62,7 +62,7 @@ body {
 	font-size: 1rem;
 	font-family: "Open Sans", sans-serif;
 	color: #2d3d4f;
-	background-color: #20124d;
+	background-color: #e69138;
 }
 
 a {
@@ -365,7 +365,7 @@ a {
 }
 
 .exclusive .pricing-header {
-    color: #20124d;
+    color: #e69138;
     background-color: transparent;
 }
 
@@ -403,7 +403,7 @@ a {
 
 .currency, 
 .duration {
-    color: #20124d;
+    color: #e69138;
 }
 
 .exclusive .currency,
@@ -526,9 +526,9 @@ a {
     display: inline-block;
     height: auto;
     padding: 1.3em 2em;
-    color: #20124d;
+    color: #e69138;
     border-radius: 8px;
-    border: 2px solid #20124d;
+    border: 2px solid #e69138;
     font-size: 1.4rem;
     text-indent: 0;
     text-transform: uppercase;
@@ -538,12 +538,12 @@ a {
 }
 
 .no-touch .select:hover {
-    background-color: #20124d;
+    background-color: #e69138;
 	color: #ffffff;
 }
 
 .exclusive .select {
-    background-color: #20124d;
+    background-color: #e69138;
 	color: #ffffff;
 }
   
@@ -552,7 +552,7 @@ a {
 }
   
 .secondary-theme .exclusive .select {
-    background-color: #20124d;
+    background-color: #e69138;
 }
   
 .no-touch .secondary-theme .exclusive .select:hover {
